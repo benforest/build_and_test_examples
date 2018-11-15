@@ -45,4 +45,4 @@ if __name__ == '__main__':
     print_usage()
     exit(2)
   fib = fibonacci(n)
-  print("fibonacci(%d) = %d" % (n, fib))
+  print("result: fibonacci(%d) = %d" % (n, fib))
