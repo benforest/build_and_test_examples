@@ -1,5 +1,5 @@
 """
-Fibonacci numbers function.
+Fibssonacci numbers function.
 """
 
 # Copyright 2014 The University of Edinburgh.
